@@ -1,4 +1,4 @@
-# Extracting userames of followers of a user on twitter.
+# Extracting usernames of followers of a user on twitter.
 
 ## Table of contents
 - Project Description
